@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  },
+  "name": "ajs-puppeteer2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pippopil/ajs-Puppeteer2.git"
+  },
+  "author": "pippopil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pippopil/ajs-Puppeteer2/issues"
+  },
+  "homepage": "https://github.com/pippopil/ajs-Puppeteer2#readme",
+  "description": ""
+}
